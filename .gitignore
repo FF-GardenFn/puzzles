@@ -1,0 +1,49 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+bin/
+lib/
+pyvenv.cfg
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE & tooling
+.idea/
+.vscode/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+CACHEDIR.TAG
+
+# Logs
+*.log
+
+# Frontend / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment variables
+.env
+.env.*
+!.env.example
+.env.local
+.env.*.local
+
+playground/
+
