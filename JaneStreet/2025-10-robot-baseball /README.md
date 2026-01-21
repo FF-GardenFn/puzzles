@@ -16,4 +16,5 @@ The batter hits a home run, in which case the batter receives 4 points.
 By varying the size of the strike zone, Quad-A can adjust the value p, the probability a pitched strike that is swung at results in a home run. They have found that viewers are most excited by at-bats that reach a full count, that is, the at-bats that reach the state of three balls and two strikes. Let q be the probability of at-bats reaching full count; q is dependent on p. Assume the batter and pitcher are both using optimal mixed strategies and Quad-A has chosen the p that maximizes q. Find this q, the maximal probability at-bats reach full count, to ten decimal places.
 
 
-link to puzzle: https://www.janestreet.com/puzzles/current-puzzle/
+link to puzzle: https://www.janestreet.com/puzzles/robot-baseball-index/
+solved suceesfully:https://www.janestreet.com/puzzles/robot-baseball-solution/ 
